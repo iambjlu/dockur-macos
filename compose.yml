@@ -1,6 +1,6 @@
 services:
   macos:
-    image: dockur/macos
+    image: dockurr/macos
     container_name: macos
     environment:
       VERSION: "13"
